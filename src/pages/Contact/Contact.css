@@ -1,0 +1,13 @@
+.contactForm {
+  display: flex;
+  height: 90vh;
+  align-items: center;
+  justify-content: center;
+}
+
+.contactForm {
+  background-repeat: no-repeat;
+  color: #fff;
+  padding: 100px;
+  height: 160vh;
+}
